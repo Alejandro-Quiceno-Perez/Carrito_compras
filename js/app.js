@@ -25,8 +25,6 @@ contenedorProductos.addEventListener("click", function (event) {
         const id = event.target.getAttribute("data-id")
         /**Obtengo el padre mas alto para poder obtener la información */
         const card = event.target.parentElement.parentElement;
-
-        ;
         agregarProducto(id, card)
     }
 })
