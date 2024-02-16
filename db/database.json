@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "email": "ejemplo@correo.com",
+            "password": "123",
+            "id": "d82e"
+        },
+        {
+            "id": "aadd",
+            "email": "alejo@prueba.com",
+            "password": "Alejo123*"
+        },
+        {
+            "id": "fba6",
+            "email": "test@riwi.io",
+            "password": "Qwerty123*"
+        }
+    ]
+}
